@@ -1,1 +1,1 @@
-# text_to_audio_converter
+The Text-to-Audio Converter is an innovative and user-friendly software application that seamlessly converts written text into high-quality audio output. This project aims to provide a convenient and efficient solution for individuals seeking to consume textual content in audio format, making it accessible to people with visual impairments, those on-the-go, or anyone who prefers listening to information rather than reading.
